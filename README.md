@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on cloud native and observability stuffs, like Kubernetes, OpenTelemetry and etc.
+- 💬 I’m an OpenSource Summit Keynote Speaker and KubeCon Speaker.
 - 👍 I’m looking to collaborate on projects that empower cloud native productivity.
