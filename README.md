@@ -1,21 +1,4 @@
-### Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api?username=danielqsj&theme=buefy&show_icons=true)
-
-<!--
-**danielqsj/danielqsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <p align="center">
   <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
@@ -33,3 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cloud native and observability stuffs, like Kubernetes, OpenTelemetry and etc.
 - 💬 I’m an OpenSource Summit Keynote Speaker and KubeCon Speaker.
 - 👍 I’m looking to collaborate on projects that empower cloud native productivity.
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielqsj&row=1&column=6&margin-w=15" alt="bryanasdev000" /></a> </p>
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=danielqsj&theme=buefy&show_icons=true">
